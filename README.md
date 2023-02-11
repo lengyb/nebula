@@ -1,5 +1,9 @@
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Space+Shooter;python+ pygame;;UI%2FUX+Designer)](https://git.io/typing-svg)
+ <div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Space+Shooter;Made+with+Pygame)](https://git.io/typing-svg)
+ 
+</div>
  
 Space shooters have been a staple of the video game industry for decades, providing players with fast-paced action, intense combat, and breathtaking visuals. With the advent of programming languages like Python, it is now possible for developers to create their own space shooter games with ease. In this essay, we will explore the process of creating a space shooter using Python, from concept to completion.
 
