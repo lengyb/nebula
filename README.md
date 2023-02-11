@@ -1,3 +1,5 @@
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+ 
 Space shooters have been a staple of the video game industry for decades, providing players with fast-paced action, intense combat, and breathtaking visuals. With the advent of programming languages like Python, it is now possible for developers to create their own space shooter games with ease. In this essay, we will explore the process of creating a space shooter using Python, from concept to completion.
 
 The first step in creating a space shooter is to come up with a concept for the game. This can include the setting, the players, and the objectives. For our space shooter, we will set the game in a distant galaxy where players must defend their home planet from a hostile alien invasion. The player will take control of a powerful spaceship armed with a variety of weapons, and must navigate through waves of enemy ships to reach the end boss.
